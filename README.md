@@ -1,6 +1,8 @@
 # Hello, I'm Ori
 
 <a href="https://www.linkedin.com/in/ori-avitan-2a1a3032b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-1528786-brightgreen?logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/1528786)
+
 
 ---
 
